@@ -16,10 +16,15 @@
     </context:component-scan>
 
     <!--视图解析器对象-->
-    <bean id="InternalResourceViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+    <!--<bean id="InternalResourceViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/pages/"/>
         <property name="suffix" value=".jsp"/>
+    </bean>-->
+    <bean id="InternalResourceViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/"/>
+        <property name="suffix" value=".html"/>
     </bean>
+
     <!-- 加载静态资源 -->
 <!--    <mvc:default-servlet-handler/>-->
 <!--    <mvc:resources location="/images/" mapping="/images/**"/>-->
@@ -48,6 +53,4 @@
             </bean>
         </mvc:message-converters>
     </mvc:annotation-driven>
-
-
 </beans>
