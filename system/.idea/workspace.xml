@@ -11,27 +11,12 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" line="809" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac268788-e68d-4ddb-9279-8d45279e304c" name="Default Changelist" comment="添加GitHub API">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/okhttp_3_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gg/Bean/AcessToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gg/Bean/GithubUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gg/Controller/CallbackController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gg/Controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gg/Util/GithubProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/imformation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dd_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dd_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ac268788-e68d-4ddb-9279-8d45279e304c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/dd_war_exploded/WEB-INF/classes/com/gg/Controller/FileController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/dd_war_exploded/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dd_war_exploded/WEB-INF/classes/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/dd_war_exploded/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/dd_war_exploded/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dd_war_exploded/layui/css/layui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gg/Controller/FileController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/layui/css/layui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gg/Controller/FileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gg/Controller/CallbackController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gg/Controller/CallbackController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gg/Util/GithubProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gg/Util/GithubProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/springmvc.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,11 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gg/Controller/CallbackController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            <state relative-caret-position="484">
+              <caret line="32" column="673" selection-start-line="32" selection-start-column="673" selection-end-line="32" selection-end-column="673" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gg/Util/GithubProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            <state relative-caret-position="370">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,8 +166,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/springmvc.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gg/Util/GithubProvider.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gg/Controller/CallbackController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gg/Util/GithubProvider.java" />
       </list>
     </option>
   </component>
@@ -757,8 +742,16 @@
       <workItem from="1574247472254" duration="1903000" />
       <workItem from="1574249423541" duration="375000" />
       <workItem from="1574249857084" duration="4689000" />
-      <workItem from="1574334437720" duration="917000" />
+      <workItem from="1574334437720" duration="1276000" />
     </task>
+    <task id="LOCAL-00001" summary="添加GitHub API">
+      <created>1574335466292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574335466292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -794,7 +787,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="506671000" />
+    <option name="totallyTimeSpent" value="507030000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -807,6 +800,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="top" id="Favorites" order="0" sideWeight="0.5021097" weight="0.24817519" />
       <window_info id="Designer" order="0" />
@@ -827,7 +821,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32963374" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50268096" side_tool="true" weight="0.501462" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" visible="true" weight="0.32444444" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" weight="0.32444444" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32741398" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
@@ -857,7 +851,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/template/colorui/icon.wxss" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/layui/css/layui.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
@@ -1244,20 +1237,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gg/Util/GithubProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gg/Controller/CallbackController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        <state relative-caret-position="484">
+          <caret line="32" column="673" selection-start-line="32" selection-start-column="673" selection-end-line="32" selection-end-column="673" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gg/Controller/CallbackController.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        <state relative-caret-position="83">
+          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gg/Util/GithubProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

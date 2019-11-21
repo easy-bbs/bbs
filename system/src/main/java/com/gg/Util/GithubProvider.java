@@ -9,6 +9,8 @@ import okhttp3.*;
 import org.springframework.stereotype.Component;
 
 
+
+
 /**
  * lgg
  * 2019/11/20
@@ -16,6 +18,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class GithubProvider {
     public String Token(AcessToken acessToken){
+
 
         MediaType mediaType = MediaType.get("application/json; charset=utf-8");
 
